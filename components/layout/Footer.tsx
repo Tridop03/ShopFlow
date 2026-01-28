@@ -35,7 +35,7 @@ const Footer = () => (
       </div>
     </div>
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 border-t border-slate-100 dark:border-slate-800 flex flex-col md:flex-row justify-between items-center gap-6 text-[10px] text-slate-400 font-black uppercase tracking-[0.2em]">
-      <p>© 2025 ShopFlow Global Ltd.</p>
+      <p>© 2026 ShopFlow Global Ltd.</p>
       <div className="flex gap-8">
         <Link to="/terms" className="hover:text-primary transition-colors">Terms</Link>
         <Link to="/privacy" className="hover:text-primary transition-colors">Privacy</Link>
