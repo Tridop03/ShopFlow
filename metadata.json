@@ -1,0 +1,7 @@
+{
+  "name": "ShopFlow - Modern E-commerce",
+  "description": "Premium shopping experience featuring fluid responsiveness, real-time updates, and Gemini-powered smart intelligence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
